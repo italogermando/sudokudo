@@ -1,9 +1,0 @@
-import PuzzleGenerator from '@/components/PuzzleGenerator';
-
-export default function Home() {
-  return (
-    <main className="container mx-auto p-4">
-      <PuzzleGenerator />
-    </main>
-  );
-}
